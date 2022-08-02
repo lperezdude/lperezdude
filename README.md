@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lperezdude&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/lperezdude/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lperezdude/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+<!--
 <!--
 **lperezdude/lperezdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
